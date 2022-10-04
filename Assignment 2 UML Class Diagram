@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T17:33:39.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="2QHuDleyo-lUcSNnhexA" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T17:38:28.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="0cnoWeMq8f0KbLIfmg8e" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1470" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -132,6 +132,18 @@
         </mxCell>
         <mxCell id="cnkbX7LHqabyWa94UoA4-7" value="PrecipitationIntesity" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="cnkbX7LHqabyWa94UoA4-4">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnkbX7LHqabyWa94UoA4-9" value="WeatherStation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="20" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cnkbX7LHqabyWa94UoA4-10" value="Identifier " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="cnkbX7LHqabyWa94UoA4-9">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnkbX7LHqabyWa94UoA4-13" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="cnkbX7LHqabyWa94UoA4-9">
+          <mxGeometry y="56" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cnkbX7LHqabyWa94UoA4-11" value="reportWeather ()&#xa;reportStatus ()&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="cnkbX7LHqabyWa94UoA4-9">
+          <mxGeometry y="66" width="160" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
