@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T05:43:35.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="lR6QqWkhyIM9cW_kffhK" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-13T05:45:52.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="FhZS8vmc1ZwvU79c-m-w" version="20.4.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1435" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -251,13 +251,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k9ILO7yWt7Z1TkZX0mD8-1" value="" style="html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="k9ILO7yWt7Z1TkZX0mD8-1" value="" style="html=1;fillColor=#cdeb8b;strokeColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="30" y="100" width="370" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="k9ILO7yWt7Z1TkZX0mD8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="k9ILO7yWt7Z1TkZX0mD8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="370" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="k9ILO7yWt7Z1TkZX0mD8-4" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="k9ILO7yWt7Z1TkZX0mD8-4" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#cce5ff;strokeColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="662.62" y="180" width="580" height="250" as="geometry" />
         </mxCell>
         <mxCell id="k9ILO7yWt7Z1TkZX0mD8-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=https://images.squarespace-cdn.com/content/v1/600b2f077ba2627fc0730ce2/1612816459045-IA0BDTO0VXGZQSL79WC2/Icon_Hike-01.png?format=1000w;" vertex="1" parent="1">
